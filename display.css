@@ -1,10 +1,10 @@
 .exemple {
     color: #FFF;
+    text-align: center;
 }
 
 .exemple-item {
-    width: 33.333%;
-    height: 150px;
+    display: inline;
 }
 .exemple-item_first {
     background-color: #FAA116;
@@ -14,4 +14,8 @@
 }
 .exemple-item_third {
     background-color: #3B97D3;
+}
+h3 {
+    text-align: center;
+    padding: 2rem;
 }
