@@ -1,0 +1,17 @@
+.exemple {
+    color: #FFF;
+}
+
+.exemple-item {
+    width: 33.333%;
+    height: 150px;
+}
+.exemple-item_first {
+    background-color: #FAA116;
+}
+.exemple-item_second {
+    background-color: #57C7C3;
+}
+.exemple-item_third {
+    background-color: #3B97D3;
+}
